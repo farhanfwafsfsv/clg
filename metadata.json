@@ -1,0 +1,8 @@
+
+{
+  "name": "FoodFresh AI Detector",
+  "description": "An intelligent food status detector that uses vision AI to assess food safety and freshness based on visual cues and storage history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
